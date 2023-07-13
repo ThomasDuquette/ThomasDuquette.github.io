@@ -1,10 +1,8 @@
 ---
-title: Thomas Duquette
+title: Welcome to my website!
 lang: en
 layout: home
 ---
-
-Welcome to my website!
 
 My name is Thomas, and I am a 5th-year undergraduate student majoring in Mechanical Engineering at Université de Moncton. I am passionate about the field of robotics and currently work at the Dynamium Research Laboratory.
 

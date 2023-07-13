@@ -1,10 +1,8 @@
 ---
-title: Thomas Duquette
+title: Bienvenue sur mon site web !
 lang: fr
 layout: home
 ---
-
-Bienvenue sur mon site web !
 
 Je m'appelle Thomas et je suis étudiant en 5e année de baccalauréat en génie mécanique à l'Université de Moncton. Passionné par le domaine de la robotique, je travaille au sein du laboratoire de recherche Dynamium.
 
