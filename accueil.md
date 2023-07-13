@@ -8,10 +8,6 @@ Je m'appelle Thomas et je suis étudiant en 5e année de baccalauréat en génie
 
 Sur ce site, je souhaite partager avec vous des publications de vulgarisation sur les concepts que j'ai appris au cours de mes recherches. J'apporterai régulièrement des mises à jour pour vous tenir informé(e) de mes découvertes les plus récentes.
 
-Le contenu de ce site est divisé en deux sections principales : "À propos" et "Publications". Dans la section "À propos", vous en apprendrez davantage sur mon parcours, mes intérêts et mes motivations. Dans la section "Publications", vous trouverez des articles accessibles qui vous permettront de mieux comprendre les concepts complexes de la robotique.
-
-Je tiens également à préciser que ce site est disponible en anglais pour ceux qui préfèrent cette langue.
-
 Je vous souhaite une agréable visite et j'espère que vous trouverez ici des informations intéressantes et enrichissantes. N'hésitez pas à me contacter si vous avez des questions ou des suggestions.
 
 Merci d'être ici !

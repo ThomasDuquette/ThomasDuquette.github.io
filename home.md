@@ -4,15 +4,11 @@ lang: en
 layout: home
 ---
 
-My name is Thomas, and I am a 5th-year undergraduate student majoring in Mechanical Engineering at Université de Moncton. I am passionate about the field of robotics and currently work at the Dynamium Research Laboratory.
+My name is Thomas, and I am a fifth-year student pursuing a Bachelor's degree in Mechanical Engineering at the Université de Moncton. Passionate about the field of robotics, I am currently working within the Dynamium research laboratory.
 
-On this website, I aim to share informative publications about the concepts I have learned during my research. I will regularly update the content to keep you informed about my latest discoveries.
+On this website, I aim to share informative publications about the concepts I have learned during my research. I will regularly provide updates to keep you informed about my latest discoveries.
 
-The site is divided into two main sections: "About" and "Publications." In the "About" section provides more details about my background, interests, and motivations. The "Publications" section, you will find accessible articles that will enhance your understanding of complex robotics concepts.
-
-I would also like to mention that this website is available in English for those who prefer that language.
-
-I hope you have an enjoyable visit, and I trust you will find valuable and insightful information here. Feel free to contact me if you have any questions or suggestions.
+I wish you a pleasant visit, and I hope you find interesting and enriching information here. Please feel free to contact me if you have any questions or suggestions.
 
 Thank you for being here!
 
