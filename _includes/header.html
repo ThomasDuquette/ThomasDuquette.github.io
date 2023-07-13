@@ -10,9 +10,9 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     {%- if lang == 'en' -%}
-    <a class="site-title" rel="author" href="{{ "/home" | relative_url }}"><img src={{ "assets/images/logo-no-background.svg" | relative_url }} alt={{ site.title }} style="width: 300px;"></a>
+    <a class="site-title" rel="author" href="{{ "/home" | relative_url }}"><img src={{ "assets/images/logo-no-background.png" | relative_url }} alt={{ site.title }} style="width: 300px;"></a>
     {%- else -%}
-    <a class="site-title" rel="author" href="{{ "/accueil" | relative_url }}"><img src={{ "assets/images/logo-no-background.svg" | relative_url }} alt={{ site.title }} style="width: 300px;"></a>
+    <a class="site-title" rel="author" href="{{ "/accueil" | relative_url }}"><img src={{ "assets/images/logo-no-background.png" | relative_url }} alt={{ site.title }} style="width: 300px;"></a>
     {%- endif -%}
 
     {%- if titles_size > 0 -%}
