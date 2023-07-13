@@ -1,5 +1,5 @@
 ---
-title: Welcome to my website!
+title: Welcome to my personal website!
 lang: en
 layout: home
 ---
@@ -8,7 +8,7 @@ My name is Thomas, and I am a 5th-year undergraduate student majoring in Mechani
 
 On this website, I aim to share informative publications about the concepts I have learned during my research. I will regularly update the content to keep you informed about my latest discoveries.
 
-The site is divided into two main sections: "Publications" and "About." In the "Publications" section, you will find accessible articles that will enhance your understanding of complex robotics concepts. The "About" section provides more details about my background, interests, and motivations.
+The site is divided into two main sections: "About" and "Publications." In the "About" section provides more details about my background, interests, and motivations. The "Publications" section, you will find accessible articles that will enhance your understanding of complex robotics concepts.
 
 I would also like to mention that this website is available in English for those who prefer that language.
 
