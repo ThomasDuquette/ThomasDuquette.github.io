@@ -7,7 +7,7 @@ minima:
   skin: classic
   
 header_pages:
-  - members.md
-  - publications.md
+  - about.md
+  - posts.md
   
 theme: minima

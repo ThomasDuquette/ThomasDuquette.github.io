@@ -19,10 +19,3 @@ Je vous souhaite une agréable visite et j'espère que vous trouverez ici des in
 Merci d'être ici !
 
 Thomas
-
-
-
-
-
-
-
