@@ -33,9 +33,9 @@ Mon objectif principal est de fournir du contenu de qualité, basé sur mes conn
 
 J'espère que vous trouverez ce site informatif, enrichissant et inspirant. Que vous soyez un étudiant en génie mécanique cherchant des ressources supplémentaires, un professionnel souhaitant rester à jour avec les dernières avancées technologiques, ou tout simplement quelqu'un qui s'intéresse à l'ingénierie mécanique, ce site est conçu pour vous. 
 
-#### À propos de Dynamium
-
-Bienvenue au laboratoire des systèmes dynamiques de l'Université de Moncton ! Le laboratoire de recherche est spécialisé dans les manipulateurs robotiques et l'interaction physique humain-robot. Le site Web est utilisé pour présenter les démos et les résultats du laboratoire, ainsi que pour simplifier le transfert de connaissances en partageant des astuces générales.
+#### À propos de <a href="Dynamium.ca">Dynamium</a>
+         
+Bienvenue au laboratoire des systèmes dynamiques de l'Université de Moncton ! Le laboratoire de recherche est spécialisé dans les manipulateurs robotiques et l'interaction physique humain-robot. 
 
 Le laboratoire des systèmes dynamiques de l'Université de Moncton se consacre à la recherche dans le domaine des manipulateurs robotiques et de l'interaction physique humain-robot. Son objectif est de repousser les limites de cette discipline fascinante en explorant de nouvelles avancées.
 

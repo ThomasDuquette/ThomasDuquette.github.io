@@ -33,7 +33,7 @@ My primary goal is to provide high-quality content based on my knowledge and per
 
 I hope you find this site informative, enriching, and inspiring. Whether you are a mechanical engineering student seeking additional resources, a professional aiming to stay updated with the latest technological advancements, or simply someone with an interest in mechanical engineering, this site is designed for you.
 
-#### About Dynamium
+#### About <a href="Dynamium.ca">Dynamium</a>
 
 Welcome to the Dynamics Systems Laboratory at Université de Moncton! The research laboratory specializes in manipulator robotics and human-robot physical interaction. The website is used to showcase demos and lab results, as well as facilitate knowledge transfer by sharing general tips.
 
