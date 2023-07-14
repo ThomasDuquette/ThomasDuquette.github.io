@@ -27,16 +27,17 @@
         </label>
 
         <div class="trigger">
+          <script>
           function togglelanguage() {
-            var button = document.getElementById("myButton");
-            if (lang === 'en') {
-              <html lang="fr">
+            if (htmlTag.getAttribute("lang") === 'en') {
+              htmlTag.setAttribute("lang", "fr");
             } else {
-              <html lang="en">
+              htmlTag.setAttribute("lang", "en");
             }
             location.reload(); // Refresh the page
           }
-
+          </script>
+          
           {%- if lang == 'en' -%}
             <a class="page-link" href="{{ "/about-en" | relative_url }}">About</a>
             <a class="page-link" href="{{ "/blog-en" | relative_url }}">Blog</a>
