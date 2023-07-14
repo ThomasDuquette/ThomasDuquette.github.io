@@ -29,11 +29,11 @@
         <div class="trigger">
           <script>
           function togglelanguage() {
-            if (htmlTag.getAttribute("lang") === 'en') {
-              htmlTag.setAttribute("lang", "fr");
-            } else {
-              htmlTag.setAttribute("lang", "en");
-            }
+            // if (htmlTag.getAttribute("lang") === 'en') {
+            //   htmlTag.setAttribute("lang", "fr");
+            // } else {
+            //   htmlTag.setAttribute("lang", "en");
+            // }
             location.reload(); // Refresh the page
           }
           </script>
@@ -41,11 +41,11 @@
           {%- if lang == 'en' -%}
             <a class="page-link" href="{{ "/about-en" | relative_url }}">About</a>
             <a class="page-link" href="{{ "/blog-en" | relative_url }}">Blog</a>
-            <a class="page-link" fref="#" onclick="togglelanguage()";>Français</a>
+            <a class="page-link" href="#" onclick="togglelanguage()";>Français</a>
           {%- else -%}
             <a class="page-link" href="{{ "/about-fr" | relative_url }}">À propos</a>
             <a class="page-link" href="{{ "/blog-fr" | relative_url }}">Blog</a>
-            <a class="page-link lang-link" href="{{ "/home" | relative_url }}">English</a>
+            <a class="page-link" href="#" onclick="togglelanguage()">English</a>
           {%- endif -%}
           </div>
       </nav>
