@@ -1,4 +1,4 @@
-if (lang == 'en') {
+" <span lang="en">
 ---
 title: About
 layout: page
@@ -42,7 +42,8 @@ The Dynamics Systems Laboratory at Université de Moncton is dedicated to advanc
 
 Physical interaction between humans and robots is a major research focus of the lab. Researchers are particularly interested in how robots can interact safely and effectively with humans. This deep understanding of human-robot interaction allows for the design of robots capable of seamlessly and naturally collaborating with humans.
 
-} else {
+</span> "
+" <span lang="en">
             
 ---
 title: À propos
@@ -87,4 +88,4 @@ Le laboratoire des systèmes dynamiques de l'Université de Moncton se consacre 
 
 L'interaction physique entre les humains et les robots constitue un axe majeur de recherche du laboratoire. Les chercheurs s'intéressent particulièrement à la manière dont les robots peuvent interagir de manière sûre et efficace avec les êtres humains. Cette compréhension approfondie de l'interaction humain-robot permet de concevoir des robots capables de collaborer de manière transparente et naturelle avec les humains.
 
-}
+</span> "
