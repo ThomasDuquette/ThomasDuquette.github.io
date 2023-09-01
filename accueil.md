@@ -4,8 +4,6 @@ lang: fr
 layout: home
 ---
 
-#### À propos de moi
-
 Bienvenue dans l'univers de Thomas Duquette, un passionné d'ingénierie mécanique et de robotique qui cherche à se faire une place dans le domaine. En tant qu'étudiant en cinquième année, je poursuis un baccalauréat en génie mécanique, porté par une passion pour les mathématiques, l'ingénierie et la soif inextinguible de connaissances. J'aspire également à continuer mon parcours à l'Université de Moncton en faisant une maîtrise au sein du laboratoire Dynamium.
 
 Mon domaine d'expertise se situe dans le captivant domaine de la robotique des manipulateurs, avec une attention particulière portée à la planification des mouvements. J'aspire à maîtriser ce domaine et à le faire progresser. Cet été, j'ai la chance d'effectuer un stage chez Dynamium, le laboratoire de robotique de l'Université de Moncton, où je me plonge dans des recherches de pointe et perfectionne mes compétences en planification de trajectoire pour bras robotique, plus spécifiquement dans la détection et l'évitement des collisions.
